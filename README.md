@@ -12,8 +12,8 @@
 
 ✅ Save customer details  
 ✅ Choose from 6 international flight destinations  
-✅ Select a destination and view available flights for that particular destination 
-✅ Generate and display a ticket with customer and flight information 
+✅ Select a destination and view available flights for that particular destination  
+✅ Generate and display a ticket with customer and flight information  
 ✅ Store data using file I/O (`data.txt`)
 
 ---
