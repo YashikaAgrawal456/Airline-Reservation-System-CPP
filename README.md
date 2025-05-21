@@ -96,7 +96,7 @@ g++ airlinereservationsystemmicroproject.cpp -o airline
 If you are on Linux or macOS
 
 ```bash
-airline.exe
+.\airline
 ```
 
 or if you are on Windows
