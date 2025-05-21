@@ -83,7 +83,7 @@ cd Airline-Reservation-System-CPP
 ```
 
 
-###2. Compile the Code
+### 2. Compile the Code
    
 ```bash
 g++ airlinereservationsystemmicroproject.cpp -o airline
@@ -91,7 +91,7 @@ g++ airlinereservationsystemmicroproject.cpp -o airline
 ```
 
 
-###3. Run the Program
+### 3. Run the Program
 
 If you are on Linux or macOS
 
