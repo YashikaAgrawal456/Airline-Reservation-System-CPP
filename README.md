@@ -44,19 +44,19 @@ Each destination provides 2–3 flights with varying times and costs.
 
 > 📷 ![image](https://github.com/user-attachments/assets/9226c865-8cfe-479e-bb2d-6156a5a6fd33)
 
-                                  Main Menu Output
+                                           Main Menu Output
                                   
 > 📷![image](https://github.com/user-attachments/assets/2f294190-98c7-474e-b779-785ee801e1f1)
 
-                              Customer's details entry
+                                         Customer's details entry
                               
 > 📷![image](https://github.com/user-attachments/assets/b7958e0a-eed6-4de0-8f4a-468723961918)
 
-                                   Flight Selection
-                                   
+                                            Flight Selection
+                                       
 > 📷![image](https://github.com/user-attachments/assets/087ab606-1eb5-4391-a6b3-d154ce1634f3)
 
-                                 Ticket Generation
+                                           Ticket Generation
 
 ---
 
@@ -67,11 +67,6 @@ Each destination provides 2–3 flights with varying times and costs.
 └── README.md # Project documentation
 
 ---
-Here’s the corrected version of your Getting Started section that you can copy-paste directly:
-
-markdown
-Copy
-Edit
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
@@ -104,4 +99,8 @@ Edit
 ❤️ Acknowledgments
 
 Thanks to everyone who helped and inspired this beginner-friendly project.
+markdown
+Copy
+Edit
+
 ---
