@@ -62,9 +62,11 @@ Each destination provides 2–3 flights with varying times and costs.
 
 ## 🧱 Project Structure
 
-├── airlinereservationsystemmicroproject.cpp # Main C++ source code
-├── data.txt # Stores customer and ticket data
-└── README.md # Project documentation
+```
+├── airlinereservationsystemmicroproject.cpp  # Main C++ source code  
+├── data.txt                                  # Stores customer and ticket data  
+└── README.md                                 # Project documentation
+```
 
 ---
 
