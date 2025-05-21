@@ -1,0 +1,13 @@
+
+
+
+					_________Airline Reservation____________
+					_________________Ticket_________________
+					________________________________________
+					Customer ID:100
+					Customer Name:dev
+					Customer Gender:m
+					Description:
+
+					Destination		Canada
+					Flight cost:		37000
