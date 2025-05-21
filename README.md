@@ -43,13 +43,20 @@ Each destination provides 2–3 flights with varying times and costs.
 ## 📸 Screenshots
 
 > 📷 ![image](https://github.com/user-attachments/assets/9226c865-8cfe-479e-bb2d-6156a5a6fd33)
-Main Menu Output
+
+                                  Main Menu Output
+                                  
 > 📷![image](https://github.com/user-attachments/assets/2f294190-98c7-474e-b779-785ee801e1f1)
-Customer's details entry
+
+                              Customer's details entry
+                              
 > 📷![image](https://github.com/user-attachments/assets/b7958e0a-eed6-4de0-8f4a-468723961918)
-Flight Selection
+
+                                   Flight Selection
+                                   
 > 📷![image](https://github.com/user-attachments/assets/087ab606-1eb5-4391-a6b3-d154ce1634f3)
-Ticket Generation
+
+                                 Ticket Generation
 
 ---
 
@@ -60,7 +67,11 @@ Ticket Generation
 └── README.md # Project documentation
 
 ---
+Here’s the corrected version of your Getting Started section that you can copy-paste directly:
 
+markdown
+Copy
+Edit
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
@@ -70,17 +81,27 @@ git clone https://github.com/your-username/airline-reservation-system.git
 cd airline-reservation-system
 2. Compile the Code
 bash
+Copy
+Edit
 g++ airline.cpp -o airline
 3. Run the Program
 bash
+Copy
+Edit
 ./airline
-⚠️ Use system("cls") for Windows. If you're using Linux/Mac, replace it with system("clear") in the code.
+⚠️ Note: Use system("cls") for Windows. If you're using Linux/Mac, replace it with system("clear") in the code.
 
 🧠 Future Enhancements
+
 🔐 Add login & user authentication
+
 💾 Use a real database (like MySQL or SQLite)
+
 🖥️ Create a GUI version using Qt or SFML
+
 🌐 Migrate to a web app using Django or Node.js
 
 ❤️ Acknowledgments
-Thanks to everyone who helped and inspired for this beginner-friendly project.
+
+Thanks to everyone who helped and inspired this beginner-friendly project.
+---
