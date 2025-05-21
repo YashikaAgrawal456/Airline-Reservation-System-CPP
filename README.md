@@ -75,20 +75,31 @@ Each destination provides 2–3 flights with varying times and costs.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/airline-reservation-system.git
-cd airline-reservation-system
+
+git clone https://github.com/YashikaAgrawal456/Airline-Reservation-System-CPP.git
+cd Airline-Reservation-System-CPP
+
 ```
 
 2. Compile the Code
    
 ```bash
-g++ airline.cpp -o airline
+g++ airlinereservationsystemmicroproject.cpp -o airline
+
 ```
 
 3. Run the Program
 
+If you are on Linux or macOS
+
 ```bash
-./airline
+airline.exe
+```
+
+or if you are on Windows
+
+```bash
+airline.exe
 ```
 
 ⚠️ Note: Use system("cls") for Windows. If you're using Linux/Mac, replace it with system("clear") in the code.
